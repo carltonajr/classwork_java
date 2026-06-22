@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class Main {
+public class Recursion {
     // function to find the smallest value in the array.
     public static int smallest(int[] numbers, int index) {
 
